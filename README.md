@@ -1,5 +1,7 @@
 # prettier-init
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/gabrielperales/prettier-init.svg)](https://greenkeeper.io/)
+
 just a CLI for creating a `.prettierrc` file.
 
 
