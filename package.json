@@ -28,7 +28,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "inquirer": "^5.2.0",
+    "inquirer": "^6.0.0",
     "js-yaml": "^3.11.0"
   },
   "devDependencies": {
