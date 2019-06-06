@@ -153,7 +153,7 @@ exports.editPropertiesOptions = [
   {
     type: 'rawlist',
     name: 'arrowParens',
-    message: 'Include parentheses around a solre arrow function parameter?',
+    message: 'Include parentheses around a sole arrow function parameter?',
     choices: ['avoid', 'always'],
     default: 'avoid',
   },
