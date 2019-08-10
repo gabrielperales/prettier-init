@@ -32,7 +32,7 @@
     "js-yaml": "^3.11.0"
   },
   "devDependencies": {
-    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-import": "^2.11.0"
   },
   "preferGlobal": true,
