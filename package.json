@@ -1,6 +1,6 @@
 {
   "name": "prettier-init",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "description": "Small CLI for generating .prettierc files",
   "homepage": "https://github.com/gabrielperales/prettier-init",
   "author": {
@@ -21,6 +21,7 @@
     "eslint-config-airbnb-base": "^13.0.0",
     "eslint-plugin-import": "^2.11.0",
     "eslint-plugin-prettier": "^3.1.0",
+    "jest": "^24.9.0",
     "jsonschema": "^1.2.4"
   },
   "engines": {
@@ -39,12 +40,12 @@
   },
   "scripts": {
     "test": "jest",
-    "prepublishOnly": "nsp check",
+    "prepublishOnly": "npm audit --audit-level high",
     "precommit": "lint-staged"
   },
   "dependencies": {
     "inquirer": "^7.0.0",
-    "js-yaml": "^3.11.0"
+    "js-yaml": "^3.13.1"
   },
   "preferGlobal": true,
   "license": "MIT",
