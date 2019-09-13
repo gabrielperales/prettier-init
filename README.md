@@ -17,7 +17,7 @@ npm install -g prettier-init
 ```
 $ prettier-init
 ? How do you want to create your .prettierrc file? (Use arrow keys)
-❯ Aswering questions about the style
+❯ Answering questions about the style
   With the default config
 ```
 
